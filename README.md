@@ -3,6 +3,16 @@
 View Demo👇: <br />
 https://nft-staking-master.netlify.app/ <br />
 
+### NOTE:  <br />
+it's built on rinkeby ethereum testnet  <br />
+It's still on process. 
+
+### what you can get from this project:  <br />
+1. wallet integration with web3react
+2. erc721 staking
+3. erc20 coin to reward
+
+
 
 ### Images of The NFT Collection Website:
 ![staking-dashboard](https://github.com/nft-utilz/staking_boilerplate/blob/main/README_images/staking-dashboard.png?raw=true%20-%20Desktop.png)
