@@ -13,10 +13,10 @@ It's still on process.
 3. erc20 coin to reward
 
 ### Preparations  <br />
-1. fullfill .env  
-NEXT_PUBLIC_ALCHEMY_RPC_URL
-NEXT_PUBLIC_ALCHEMY_API_KEY
-NEXT_PUBLIC_INFURA_API_KEY 
+1. fullfill .env  <br />
+NEXT_PUBLIC_ALCHEMY_RPC_URL<br />
+NEXT_PUBLIC_ALCHEMY_API_KEY<br />
+NEXT_PUBLIC_INFURA_API_KEY <br />
 
 
 ### Images of The NFT Collection Website:
