@@ -1,3 +1,9 @@
+# How to Create NFT Staking Landing Page using ERC20, ERC721 in Next JS
+
+View Demo👇: <br />
+https://nft-staking-master.netlify.app/ <br />
+
+
 ### Images of The NFT Collection Website:
 ![staking-dashboard](https://github.com/nft-utilz/staking_boilerplate/blob/main/README_images/staking-dashboard.png?raw=true%20-%20Desktop.png)
 ![unstaked-apes](https://github.com/nft-utilz/staking_boilerplate/blob/main/README_images/unstaked-apes.png?raw=true%20-%20Desktop.png)
