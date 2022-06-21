@@ -12,6 +12,11 @@ It's still on process.
 2. erc721 staking
 3. erc20 coin to reward
 
+### Preparations  <br />
+1. fullfill .env  
+NEXT_PUBLIC_ALCHEMY_RPC_URL
+NEXT_PUBLIC_ALCHEMY_API_KEY
+NEXT_PUBLIC_INFURA_API_KEY 
 
 
 ### Images of The NFT Collection Website:
