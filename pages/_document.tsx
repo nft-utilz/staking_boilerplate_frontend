@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import { ServerStyleSheet } from "styled-components";
-const BASE_URL = "https://www.novmint.xyz";
 
 export default class MyDocument extends Document {
   //--------------For styled-components only------------//
